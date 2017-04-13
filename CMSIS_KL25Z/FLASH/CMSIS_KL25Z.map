@@ -1,0 +1,1072 @@
+Archive member included because of file (symbol)
+
+C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+                              ./Sources/arm_sin_cos_example_f32.o (arm_sin_f32)
+C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+                              ./Sources/arm_sin_cos_example_f32.o (arm_cos_f32)
+C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+                              ./Sources/arm_sin_cos_example_f32.o (arm_mult_f32)
+C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+                              ./Sources/arm_sin_cos_example_f32.o (arm_add_f32)
+C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (sinTable_f32)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (exit)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (memset)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+                              (__pformatter_)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+                              (__sformatter)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (isspace)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (__strtoul)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o) (__fill_mem)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (memchr)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (memcpy)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (strchr)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (strlen)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o) (__gnu_thumb1_case_sqi)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (__gnu_thumb1_case_uqi)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (__aeabi_uidiv)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (__aeabi_fcmplt)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_fixunssfsi.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (__aeabi_f2uiz)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(addsf3.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (__aeabi_fadd)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(eqsf2.o)
+                              c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(gesf2.o)
+                              c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o) (__gesf2)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(lesf2.o)
+                              c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o) (__lesf2)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(mulsf3.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (__aeabi_fmul)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(subsf3.o)
+                              ./Sources/arm_sin_cos_example_f32.o (__aeabi_fsub)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(fixsfsi.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (__aeabi_f2iz)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatsisf.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (__aeabi_i2f)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatunsisf.o)
+                              C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o) (__aeabi_ui2f)
+c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_clzsi2.o)
+                              c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(addsf3.o) (__clzsi2)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (__init_cpp)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (__copy_rom_sections_to_ram)
+C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                              C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o) (__destroy_global_chain)
+
+Allocating common symbols
+Common symbol       size              file
+
+cosOutput           0x4               ./Sources/arm_sin_cos_example_f32.o
+cosSquareOutput     0x4               ./Sources/arm_sin_cos_example_f32.o
+testOutput          0x4               ./Sources/arm_sin_cos_example_f32.o
+sinSquareOutput     0x4               ./Sources/arm_sin_cos_example_f32.o
+status              0x1               ./Sources/arm_sin_cos_example_f32.o
+sinOutput           0x4               ./Sources/arm_sin_cos_example_f32.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 ./Project_Settings/Startup_Code/__arm_start.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .text          0x00000000        0x0 ./Sources/sa_mtb.o
+ .data          0x00000000        0x0 ./Sources/sa_mtb.o
+ .bss           0x00000000        0x0 ./Sources/sa_mtb.o
+ .debug_info    0x00000000       0x21 ./Sources/sa_mtb.o
+ .debug_abbrev  0x00000000       0x12 ./Sources/sa_mtb.o
+ .debug_aranges
+                0x00000000       0x18 ./Sources/sa_mtb.o
+ .debug_macinfo
+                0x00000000     0x24e9 ./Sources/sa_mtb.o
+ .debug_line    0x00000000       0xaa ./Sources/sa_mtb.o
+ .debug_str     0x00000000       0xa7 ./Sources/sa_mtb.o
+ .comment       0x00000000       0x7a ./Sources/sa_mtb.o
+ .ARM.attributes
+                0x00000000       0x31 ./Sources/sa_mtb.o
+ .text          0x00000000        0x0 ./Sources/arm_sin_cos_example_f32.o
+ .data          0x00000000        0x0 ./Sources/arm_sin_cos_example_f32.o
+ .bss           0x00000000        0x0 ./Sources/arm_sin_cos_example_f32.o
+ .text          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .data          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .bss           0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .text          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .data          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .bss           0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .text          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .data          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .bss           0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .text          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .data          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .bss           0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .text          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .data          0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .bss           0x00000000        0x0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_128
+                0x00000000       0xe0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_2048
+                0x00000000     0x4000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_2048
+                0x00000000      0xf80 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_32_q31
+                0x00000000       0xc0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_4096
+                0x00000000     0x1f80 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_64
+                0x00000000      0x100 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable64
+                0x00000000       0x70 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_2048
+                0x00000000     0x2000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_1024
+                0x00000000      0x7c0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_4096
+                0x00000000     0x4000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_256
+                0x00000000      0x800 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_1024_q15
+                0x00000000      0xc00 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_1024_q31
+                0x00000000     0x1800 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_32_q15
+                0x00000000       0x60 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_16
+                0x00000000       0x80 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_4096_q15
+                0x00000000     0x3000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_4096_q31
+                0x00000000     0x6000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.sinTable_q15
+                0x00000000      0x404 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.sinTable_q31
+                0x00000000      0x804 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_1024
+                0x00000000     0x2000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_32
+                0x00000000      0x100 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable1024
+                0x00000000      0xe10 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_16_q15
+                0x00000000       0x30 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_16_q31
+                0x00000000       0x60 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable16
+                0x00000000       0x28 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_32
+                0x00000000       0x80 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable32
+                0x00000000       0x60 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevTable
+                0x00000000      0x800 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_128
+                0x00000000      0x400 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_64_q15
+                0x00000000       0xc0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_2048_q15
+                0x00000000     0x1800 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_64_q31
+                0x00000000      0x180 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_2048_q31
+                0x00000000     0x3000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_256_q15
+                0x00000000      0x300 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_512_q15
+                0x00000000      0x600 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_256_q31
+                0x00000000      0x600 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_512
+                0x00000000     0x1000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_512_q31
+                0x00000000      0xc00 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable2048
+                0x00000000     0x1dc0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armRecipTableQ15
+                0x00000000       0x80 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_64
+                0x00000000      0x200 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable4096
+                0x00000000     0x1f80 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armRecipTableQ31
+                0x00000000      0x100 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_512
+                0x00000000      0x800 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable512
+                0x00000000      0x380 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_512
+                0x00000000      0x3c0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_16
+                0x00000000       0x18 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_128_q15
+                0x00000000      0x180 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_1024
+                0x00000000     0x1000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_256
+                0x00000000      0x400 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable256
+                0x00000000      0x370 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_32
+                0x00000000       0x30 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_256
+                0x00000000      0x1e0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable_fixed_64
+                0x00000000       0x70 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_rfft_128
+                0x00000000      0x200 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.armBitRevIndexTable128
+                0x00000000      0x1a0 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_4096
+                0x00000000     0x8000 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .rodata.twiddleCoef_128_q31
+                0x00000000      0x300 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isalnum  0x00000000       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.iscntrl  0x00000000       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isdigit  0x00000000        0xe C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isgraph  0x00000000       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.islower  0x00000000       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isprint  0x00000000       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.ispunct  0x00000000       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isupper  0x00000000       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isxdigit
+                0x00000000       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isblank  0x00000000       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.tolower  0x00000000        0xe C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(eqsf2.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(eqsf2.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(gesf2.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(lesf2.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(lesf2.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(subsf3.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(subsf3.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatunsisf.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatunsisf.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xe C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0xc C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__init_hardware
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x000000c0         xr
+m_cfmprotrom     0x00000400         0x00000010         xr
+m_text           0x00000800         0x0001f800         xr
+m_data           0x1ffff000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./Project_Settings/Startup_Code/kinetis_sysinit.o
+LOAD ./Project_Settings/Startup_Code/__arm_start.o
+LOAD ./Project_Settings/Startup_Code/__arm_end.o
+LOAD ./Sources/sa_mtb.o
+LOAD ./Sources/arm_sin_cos_example_f32.o
+                0x00001b1c                __pformatter = __pformatter_
+                [0x00001f44]                __sformatter = __sformatter
+LOAD C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a
+START GROUP
+LOAD C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a
+LOAD C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libm.a
+LOAD c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a
+LOAD C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a
+LOAD C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libuart.a
+END GROUP
+                0x20003000                _estack = 0x20003000
+                0x20003000                __SP_INIT = _estack
+                0x00000400                __heap_size = 0x400
+                0x00000400                __stack_size = 0x400
+
+.interrupts     0x00000000       0xc0
+                0x00000000                __vector_table = .
+                0x00000000                . = ALIGN (0x4)
+ *(.vectortable)
+ .vectortable   0x00000000       0xc0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                0x00000000                InterruptVector
+                0x000000c0                . = ALIGN (0x4)
+
+.cfmprotect     0x00000400        0x0
+                0x00000400                . = ALIGN (0x4)
+ *(.cfmconfig)
+                0x00000400                . = ALIGN (0x4)
+
+.text           0x00000800     0x2bd8
+                0x00000800                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000800       0x14 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+                0x00000800                __gnu_thumb1_case_sqi
+ .text          0x00000814       0x14 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                0x00000814                __gnu_thumb1_case_uqi
+ .text          0x00000828       0x9c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x00000828                __aeabi_uidiv
+                0x00000828                __udivsi3
+                0x000008b0                __aeabi_uidivmod
+ .text          0x000008c4        0x4 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x000008c4                __aeabi_idiv0
+                0x000008c4                __aeabi_ldiv0
+ .text          0x000008c8       0x74 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o)
+                0x000008c8                __aeabi_cfrcmple
+                0x000008d0                __aeabi_cfcmpeq
+                0x000008d0                __aeabi_cfcmple
+                0x000008e0                __aeabi_fcmpeq
+                0x000008ec                __aeabi_fcmplt
+                0x00000900                __aeabi_fcmple
+                0x00000914                __aeabi_fcmpgt
+                0x00000928                __aeabi_fcmpge
+ .text          0x0000093c       0x30 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_fixunssfsi.o)
+                0x0000093c                __fixunssfsi
+                0x0000093c                __aeabi_f2uiz
+ .text          0x0000096c      0x3a4 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(addsf3.o)
+                0x0000096c                __aeabi_fadd
+ .text          0x00000d10       0x50 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(eqsf2.o)
+                0x00000d10                __eqsf2
+                0x00000d10                __nesf2
+ .text          0x00000d60       0x90 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(gesf2.o)
+                0x00000d60                __gesf2
+                0x00000d60                __gtsf2
+ .text          0x00000df0       0x90 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(lesf2.o)
+                0x00000df0                __ltsf2
+                0x00000df0                __lesf2
+ .text          0x00000e80      0x260 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(mulsf3.o)
+                0x00000e80                __aeabi_fmul
+ .text          0x000010e0      0x3ac c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(subsf3.o)
+                0x000010e0                __aeabi_fsub
+ .text          0x0000148c       0x40 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(fixsfsi.o)
+                0x0000148c                __aeabi_f2iz
+ .text          0x000014cc       0xa8 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatsisf.o)
+                0x000014cc                __aeabi_i2f
+ .text          0x00001574       0xa8 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatunsisf.o)
+                0x00001574                __aeabi_ui2f
+ .text          0x0000161c       0x3c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_clzsi2.o)
+                0x0000161c                __clzsi2
+ *(.text*)
+ .text.Default_Handler
+                0x00001658        0xc ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                0x00001658                RTC_Alarm_IRQHandler
+                0x00001658                I2C0_IRQHandler
+                0x00001658                HardFault_Handler
+                0x00001658                SysTick_Handler
+                0x00001658                PendSV_Handler
+                0x00001658                NMI_Handler
+                0x00001658                I2C1_IRQHandler
+                0x00001658                UART1_IRQHandler
+                0x00001658                DMA2_IRQHandler
+                0x00001658                TSI0_IRQHandler
+                0x00001658                UART0_IRQHandler
+                0x00001658                ADC0_IRQHandler
+                0x00001658                SPI1_IRQHandler
+                0x00001658                PORTD_IRQHandler
+                0x00001658                LPTimer_IRQHandler
+                0x00001658                FTM1_IRQHandler
+                0x00001658                RTC_Seconds_IRQHandler
+                0x00001658                MCG_IRQHandler
+                0x00001658                UART2_IRQHandler
+                0x00001658                Default_Handler
+                0x00001658                LLW_IRQHandler
+                0x00001658                PIT_IRQHandler
+                0x00001658                SVC_Handler
+                0x00001658                USBOTG_IRQHandler
+                0x00001658                DMA3_IRQHandler
+                0x00001658                DMA0_IRQHandler
+                0x00001658                DAC0_IRQHandler
+                0x00001658                PMC_IRQHandler
+                0x00001658                SPI0_IRQHandler
+                0x00001658                FTM0_IRQHandler
+                0x00001658                PORTA_IRQHandler
+                0x00001658                MCM_IRQHandler
+                0x00001658                FTFL_IRQHandler
+                0x00001658                FTM2_IRQHandler
+                0x00001658                CMP0_IRQHandler
+                0x00001658                DMA1_IRQHandler
+ .text.__init_hardware
+                0x00001664       0x2c ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                0x00001664                __init_hardware
+ .text.zero_fill_bss
+                0x00001690       0x24 ./Project_Settings/Startup_Code/__arm_start.o
+ .text.__thumb_startup
+                0x000016b4       0x30 ./Project_Settings/Startup_Code/__arm_start.o
+                0x000016b4                __thumb_startup
+ .text._ExitProcess
+                0x000016e4        0xc ./Project_Settings/Startup_Code/__arm_end.o
+                0x000016e4                _ExitProcess
+ .text.main     0x000016f0       0xdc ./Sources/arm_sin_cos_example_f32.o
+                0x000016f0                main
+ .text.arm_sin_f32
+                0x000017cc       0x84 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+                0x000017cc                arm_sin_f32
+ .text.arm_cos_f32
+                0x00001850       0x8c C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+                0x00001850                arm_cos_f32
+ .text.arm_mult_f32
+                0x000018dc       0x30 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+                0x000018dc                arm_mult_f32
+ .text.arm_add_f32
+                0x0000190c       0x30 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+                0x0000190c                arm_add_f32
+ .text.exit     0x0000193c       0x38 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                0x0000193c                exit
+ .text.memset   0x00001974        0xc C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+                0x00001974                memset
+ .text.long2str.isra.0
+                0x00001980      0x19c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .text.__pformatter_
+                0x00001b1c      0x428 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+                0x00001b1c                __pformatter_
+ .text.__sformatter
+                0x00001f44      0x698 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+                0x00001f44                __sformatter
+ .text.isalpha  0x000025dc       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x000025dc                isalpha
+ .text.isspace  0x000025fc       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x000025fc                isspace
+ .text.toupper  0x0000261c        0xe C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x0000261c                toupper
+ .text.__strtoul
+                0x0000262a      0x1ce C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+                0x0000262a                __strtoul
+ .text.__fill_mem
+                0x000027f8       0x7e C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+                0x000027f8                __fill_mem
+ .text.memchr   0x00002876       0x1a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+                0x00002876                memchr
+ .text.memcpy   0x00002890       0x12 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+                0x00002890                memcpy
+ .text.strchr   0x000028a2       0x1e C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+                0x000028a2                strchr
+ .text.strlen   0x000028c0       0x10 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+                0x000028c0                strlen
+ .text.__init_cpp
+                0x000028d0       0x48 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                0x000028d0                __init_cpp
+ .text.__fini_cpp
+                0x00002918       0x34 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                0x00002918                __fini_cpp
+ .text.__copy_rom_section
+                0x0000294c       0x48 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                0x0000294c                __copy_rom_section
+ .text.__copy_rom_sections_to_ram
+                0x00002994       0x34 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                0x00002994                __copy_rom_sections_to_ram
+ .text.__destroy_global_chain
+                0x000029c8       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x000029c8                __destroy_global_chain
+ .text.__init_registers
+                0x000029e4       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x000029e4                __init_registers
+ .text.__init_user
+                0x00002a00        0x4 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x00002a00                __init_user
+ *(.rodata)
+ .rodata        0x00002a04       0x40 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(mulsf3.o)
+ *(.rodata*)
+ .rodata.testInput_f32
+                0x00002a44       0x80 ./Sources/arm_sin_cos_example_f32.o
+                0x00002a44                testInput_f32
+ .rodata.testRefOutput_f32
+                0x00002ac4        0x4 ./Sources/arm_sin_cos_example_f32.o
+                0x00002ac4                testRefOutput_f32
+ .rodata.sinTable_f32
+                0x00002ac8      0x804 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+                0x00002ac8                sinTable_f32
+ .rodata.str1.1
+                0x000032cc        0x1 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .rodata.CSWTCH.20
+                0x000032cd        0x5 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .rodata.CSWTCH.21
+                0x000032d2        0x5 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .rodata.__aeabi_ctype_table_C
+                0x000032d7      0x101 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x000032d7                __aeabi_ctype_table_C
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x000033d8                . = ALIGN (0x4)
+                0x000033d8                _etext = .
+
+.vfp11_veneer   0x000033d8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000033d8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000033d8        0x0
+ .iplt          0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+
+.rel.dyn        0x000033d8        0x0
+ .rel.iplt      0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000033d8        0x0
+                0x000033d8                __exidx_start = .
+ *(.ARM.exidx*)
+                0x000033d8                __exidx_end = .
+
+.ctors          0x000033d8        0x0
+                0x000033d8                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x000033d8                __CTOR_END__ = .
+
+.dtors          0x000033d8        0x0
+                0x000033d8                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x000033d8                __DTOR_END__ = .
+
+.preinit_array  0x000033d8        0x0
+                0x000033d8                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x000033d8                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x000033d8        0x0
+                0x000033d8                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x000033d8                PROVIDE (__init_array_end, .)
+
+.fini_array     0x000033d8        0x0
+                0x000033d8                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x000033d8                PROVIDE (__fini_array_end, .)
+                0x000033d8                ___ROM_AT = .
+
+.mtb            0x1ffff000        0x0
+                0x1ffff000                . = ALIGN (0x8)
+                0x1ffff000                _mtb_start = .
+ *(.mtb_buf)
+                0x1ffff000                . = ALIGN (0x8)
+                0x1ffff000                _mtb_end = .
+
+.data           0x1ffff000        0x4 load address 0x000033d8
+                0x1ffff000                . = ALIGN (0x4)
+                0x1ffff000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.blockSize
+                0x1ffff000        0x4 ./Sources/arm_sin_cos_example_f32.o
+                0x1ffff000                blockSize
+                0x1ffff004                . = ALIGN (0x4)
+                0x1ffff004                _edata = .
+                0x00000004                ___data_size = (_edata - _sdata)
+
+.igot.plt       0x1ffff004        0x0 load address 0x000033dc
+ .igot.plt      0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                0x1ffff004                . = ALIGN (0x4)
+
+.bss            0x1ffff004       0x34 load address 0x000033dc
+                0x1ffff004                __START_BSS = .
+                0x1ffff004                PROVIDE (__bss_start__, __START_BSS)
+ *(.bss)
+ *(.bss*)
+ .bss.argv      0x1ffff004        0x4 ./Project_Settings/Startup_Code/__arm_start.o
+ .bss.__stdio_exit
+                0x1ffff008        0x4 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                0x1ffff008                __stdio_exit
+ .bss.__console_exit
+                0x1ffff00c        0x4 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                0x1ffff00c                __console_exit
+ .bss.__S_romp  0x1ffff010        0xc C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .bss.__global_destructor_chain
+                0x1ffff01c        0x4 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x1ffff01c                __global_destructor_chain
+ *(COMMON)
+ COMMON         0x1ffff020       0x18 ./Sources/arm_sin_cos_example_f32.o
+                0x1ffff020                cosOutput
+                0x1ffff024                cosSquareOutput
+                0x1ffff028                testOutput
+                0x1ffff02c                sinSquareOutput
+                0x1ffff030                status
+                0x1ffff034                sinOutput
+                0x1ffff038                . = ALIGN (0x4)
+                0x1ffff038                __END_BSS = .
+                0x1ffff038                PROVIDE (__bss_end__, __END_BSS)
+                0x000033dc                _romp_at = (___ROM_AT + SIZEOF (.data))
+
+.romp           0x1ffff038       0x18 load address 0x000033dc
+                0x000033dc                __S_romp = _romp_at
+                0x1ffff038        0x4 LONG 0x33d8 ___ROM_AT
+                0x1ffff03c        0x4 LONG 0x1ffff000 _sdata
+                0x1ffff040        0x4 LONG 0x4 ___data_size
+                0x1ffff044        0x4 LONG 0x0
+                0x1ffff048        0x4 LONG 0x0
+                0x1ffff04c        0x4 LONG 0x0
+
+._user_heap_stack
+                0x1ffff050      0x800 load address 0x000033f4
+                0x1ffff050                . = ALIGN (0x4)
+                0x1ffff050                PROVIDE (end, .)
+                0x1ffff050                PROVIDE (_end, .)
+                0x1ffff050                __heap_addr = .
+                0x1ffff450                . = (. + __heap_size)
+ *fill*         0x1ffff050      0x400 00
+                0x1ffff850                . = (. + __stack_size)
+ *fill*         0x1ffff450      0x400 00
+                0x1ffff850                . = ALIGN (0x4)
+
+.ARM.attributes
+                0x00000000       0x31
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x31 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .ARM.attributes
+                0x00000031       0x31 ./Project_Settings/Startup_Code/__arm_start.o
+ .ARM.attributes
+                0x00000062       0x31 ./Project_Settings/Startup_Code/__arm_end.o
+ .ARM.attributes
+                0x00000093       0x31 ./Sources/arm_sin_cos_example_f32.o
+ .ARM.attributes
+                0x000000c4       0x31 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .ARM.attributes
+                0x000000f5       0x31 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .ARM.attributes
+                0x00000126       0x31 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .ARM.attributes
+                0x00000157       0x31 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .ARM.attributes
+                0x00000188       0x31 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .ARM.attributes
+                0x000001b9       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .ARM.attributes
+                0x000001ea       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .ARM.attributes
+                0x0000021b       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .ARM.attributes
+                0x0000024c       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .ARM.attributes
+                0x0000027d       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .ARM.attributes
+                0x000002ae       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .ARM.attributes
+                0x000002df       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .ARM.attributes
+                0x00000310       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .ARM.attributes
+                0x00000341       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .ARM.attributes
+                0x00000372       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .ARM.attributes
+                0x000003a3       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .ARM.attributes
+                0x000003d4       0x1e c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .ARM.attributes
+                0x000003f2       0x1e c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000410       0x1e c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000042e       0x1e c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000044c       0x1e c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000046a       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_fixunssfsi.o)
+ .ARM.attributes
+                0x00000496       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x000004c2       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x000004ee       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x0000051a       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x00000546       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000572       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x0000059e       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x000005ca       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x000005f6       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatunsisf.o)
+ .ARM.attributes
+                0x00000622       0x1e c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000640       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x00000671       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .ARM.attributes
+                0x000006a2       0x31 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+OUTPUT(CMSIS_KL25Z.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x32ab
+ .debug_info    0x00000000      0x447 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_info    0x00000447      0x12a ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_info    0x00000571       0x54 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_info    0x000005c5      0x1e1 ./Sources/arm_sin_cos_example_f32.o
+ .debug_info    0x000007a6      0x18b C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .debug_info    0x00000931      0x18b C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .debug_info    0x00000abc      0x11d C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .debug_info    0x00000bd9      0x11d C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .debug_info    0x00000cf6      0x99d C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .debug_info    0x00001693       0xe8 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_info    0x0000177b       0xec C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_info    0x00001867      0x50d C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_info    0x00001d74      0x568 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_info    0x000022dc      0x313 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_info    0x000025ef      0x1d6 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_info    0x000027c5      0x137 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_info    0x000028fc      0x121 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_info    0x00002a1d      0x10f C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_info    0x00002b2c      0x10b C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_info    0x00002c37       0xea C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_info    0x00002d21      0x136 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x00002e57      0x19b C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_info    0x00002ff2      0x2b9 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+.debug_abbrev   0x00000000     0x11ac
+ .debug_abbrev  0x00000000       0xe7 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_abbrev  0x000000e7       0x92 ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_abbrev  0x00000179       0x4c ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_abbrev  0x000001c5       0xb9 ./Sources/arm_sin_cos_example_f32.o
+ .debug_abbrev  0x0000027e       0xb9 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .debug_abbrev  0x00000337       0xb9 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .debug_abbrev  0x000003f0       0x85 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .debug_abbrev  0x00000475       0x85 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .debug_abbrev  0x000004fa       0x84 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .debug_abbrev  0x0000057e       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_abbrev  0x000005f8       0x62 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_abbrev  0x0000065a      0x200 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_abbrev  0x0000085a      0x1f0 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_abbrev  0x00000a4a       0x9e C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_abbrev  0x00000ae8       0xc2 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_abbrev  0x00000baa       0x78 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_abbrev  0x00000c22       0x95 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_abbrev  0x00000cb7       0x95 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_abbrev  0x00000d4c       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_abbrev  0x00000dc6       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_abbrev  0x00000e40       0x99 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x00000ed9      0x120 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_abbrev  0x00000ff9      0x1b3 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+.debug_loc      0x00000000     0x2e34
+ .debug_loc     0x00000000       0x58 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_loc     0x00000058       0x2c ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_loc     0x00000084       0x38 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_loc     0x000000bc       0x38 ./Sources/arm_sin_cos_example_f32.o
+ .debug_loc     0x000000f4      0x226 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .debug_loc     0x0000031a      0x21b C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .debug_loc     0x00000535      0x10a C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .debug_loc     0x0000063f      0x10a C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .debug_loc     0x00000749       0x3e C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_loc     0x00000787       0x6f C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_loc     0x000007f6     0x104b C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_loc     0x00001841      0x9d8 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_loc     0x00002219      0x30d C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_loc     0x00002526      0x305 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_loc     0x0000282b      0x14a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_loc     0x00002975       0x77 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_loc     0x000029ec       0x59 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_loc     0x00002a45       0xaf C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_loc     0x00002af4       0x33 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_loc     0x00002b27       0x9d C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x00002bc4       0xd9 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_loc     0x00002c9d      0x197 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+.debug_aranges  0x00000000      0x3b0
+ .debug_aranges
+                0x00000000       0x28 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_aranges
+                0x00000028       0x30 ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_aranges
+                0x00000058       0x20 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_aranges
+                0x00000078       0x20 ./Sources/arm_sin_cos_example_f32.o
+ .debug_aranges
+                0x00000098       0x20 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .debug_aranges
+                0x000000b8       0x20 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .debug_aranges
+                0x000000d8       0x20 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .debug_aranges
+                0x000000f8       0x20 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .debug_aranges
+                0x00000118       0x18 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .debug_aranges
+                0x00000130       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_aranges
+                0x00000150       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_aranges
+                0x00000170       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_aranges
+                0x00000198       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_aranges
+                0x000001b8       0x88 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_aranges
+                0x00000240       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_aranges
+                0x00000260       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_aranges
+                0x00000280       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_aranges
+                0x000002a0       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_aranges
+                0x000002c0       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_aranges
+                0x000002e0       0x20 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_aranges
+                0x00000300       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x00000328       0x30 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_aranges
+                0x00000358       0x58 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+.debug_macinfo  0x00000000    0x339d0
+ .debug_macinfo
+                0x00000000    0x26501 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_macinfo
+                0x00026501     0x3e7e ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_macinfo
+                0x0002a37f     0x3467 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_macinfo
+                0x0002d7e6     0x61ea ./Sources/arm_sin_cos_example_f32.o
+
+.debug_line     0x00000000     0x1f8d
+ .debug_line    0x00000000      0x228 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_line    0x00000228      0x2ab ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_line    0x000004d3      0x266 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_line    0x00000739      0x2fd ./Sources/arm_sin_cos_example_f32.o
+ .debug_line    0x00000a36      0x167 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .debug_line    0x00000b9d      0x161 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .debug_line    0x00000cfe      0x146 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .debug_line    0x00000e44      0x144 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .debug_line    0x00000f88      0x129 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .debug_line    0x000010b1       0x8d C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_line    0x0000113e       0x90 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_line    0x000011ce      0x2c3 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_line    0x00001491      0x2be C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_line    0x0000174f      0x1be C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_line    0x0000190d      0x11e C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_line    0x00001a2b       0xf6 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_line    0x00001b21       0x9f C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_line    0x00001bc0       0x8b C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_line    0x00001c4b       0x7d C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_line    0x00001cc8       0x85 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_line    0x00001d4d       0x6c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x00001db9       0xbd C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_line    0x00001e76      0x117 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+.debug_str      0x00000000     0x141c
+ .debug_str     0x00000000      0x2a0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                                0x2d0 (size before relaxing)
+ .debug_str     0x000002a0       0x85 ./Project_Settings/Startup_Code/__arm_start.o
+                                0x1aa (size before relaxing)
+ .debug_str     0x00000325       0x3a ./Project_Settings/Startup_Code/__arm_end.o
+                                 0xe1 (size before relaxing)
+ .debug_str     0x0000035f      0x14d ./Sources/arm_sin_cos_example_f32.o
+                                0x291 (size before relaxing)
+ .debug_str     0x000004ac      0x141 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+                                0x20d (size before relaxing)
+ .debug_str     0x000005ed       0x36 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+                                0x20d (size before relaxing)
+ .debug_str     0x00000623       0x55 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+                                0x1f9 (size before relaxing)
+ .debug_str     0x00000678       0x30 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+                                0x1f7 (size before relaxing)
+ .debug_str     0x000006a8      0x503 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+                                0x6cf (size before relaxing)
+ .debug_str     0x00000bab       0x48 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                                0x157 (size before relaxing)
+ .debug_str     0x00000bf3       0x23 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+                                0x140 (size before relaxing)
+ .debug_str     0x00000c16      0x23b C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+                                0x3b3 (size before relaxing)
+ .debug_str     0x00000e51      0x184 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+                                0x3f9 (size before relaxing)
+ .debug_str     0x00000fd5       0x9d C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                                0x1bc (size before relaxing)
+ .debug_str     0x00001072       0x61 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+                                0x1fb (size before relaxing)
+ .debug_str     0x000010d3       0x25 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x000010f8       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+                                0x148 (size before relaxing)
+ .debug_str     0x00001114       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+                                0x138 (size before relaxing)
+ .debug_str     0x00001130       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+                                0x137 (size before relaxing)
+ .debug_str     0x0000114c       0x1c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+                                0x140 (size before relaxing)
+ .debug_str     0x00001168      0x126 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                                0x181 (size before relaxing)
+ .debug_str     0x0000128e       0x96 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                                0x13c (size before relaxing)
+ .debug_str     0x00001324       0xf8 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                                0x1b5 (size before relaxing)
+
+.comment        0x00000000       0xe9
+ .comment       0x00000000       0x79 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000000       0x7a ./Project_Settings/Startup_Code/__arm_start.o
+ .comment       0x00000000       0x7a ./Project_Settings/Startup_Code/__arm_end.o
+ .comment       0x00000000       0x7a ./Sources/arm_sin_cos_example_f32.o
+ .comment       0x00000079       0x70 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .comment       0x00000000       0x71 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .comment       0x00000000       0x71 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .comment       0x00000000       0x71 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_common_tables.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+.debug_frame    0x00000000      0x828
+ .debug_frame   0x00000000       0x48 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_frame   0x00000048       0x4c ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_frame   0x00000094       0x30 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_frame   0x000000c4       0x30 ./Sources/arm_sin_cos_example_f32.o
+ .debug_frame   0x000000f4       0x30 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .debug_frame   0x00000124       0x30 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .debug_frame   0x00000154       0x34 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .debug_frame   0x00000188       0x34 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
+ .debug_frame   0x000001bc       0x2c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_frame   0x000001e8       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_frame   0x00000210       0x54 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_frame   0x00000264       0x34 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_frame   0x00000298      0x158 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_frame   0x000003f0       0x30 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_frame   0x00000420       0x2c C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_frame   0x0000044c       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_frame   0x00000474       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_frame   0x0000049c       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_frame   0x000004c4       0x28 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_frame   0x000004ec       0x20 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000050c       0x28 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000534       0x30 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(addsf3.o)
+ .debug_frame   0x00000564       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(eqsf2.o)
+ .debug_frame   0x00000590       0x30 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(gesf2.o)
+ .debug_frame   0x000005c0       0x30 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(lesf2.o)
+ .debug_frame   0x000005f0       0x3c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(mulsf3.o)
+ .debug_frame   0x0000062c       0x30 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(subsf3.o)
+ .debug_frame   0x0000065c       0x28 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(fixsfsi.o)
+ .debug_frame   0x00000684       0x2c c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatsisf.o)
+ .debug_frame   0x000006b0       0x28 c:/freescale/cw mcu v10.6/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(floatunsisf.o)
+ .debug_frame   0x000006d8       0x40 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x00000718       0x54 C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_frame   0x0000076c       0xbc C:/Freescale/CW MCU v10.6/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+
+.debug_ranges   0x00000000       0x40
+ .debug_ranges  0x00000000       0x10 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_sin_f32.o)
+ .debug_ranges  0x00000010       0x10 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_cos_f32.o)
+ .debug_ranges  0x00000020       0x10 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_mult_f32.o)
+ .debug_ranges  0x00000030       0x10 C:/Users/Antonio/Desktop/TFCMexico2014/TFC-Car/CMSIS/Lib/GCC\libarm_cortexM0l_math.a(arm_add_f32.o)
